@@ -1,4 +1,6 @@
 This file is configuration
-of automation
+of automation of code
 that we are using
 for project
+do the
+test
